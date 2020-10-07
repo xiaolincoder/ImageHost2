@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T12:11:41.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" version="13.7.7" etag="KuJzObxjIDbI7jAKHFQM" type="github"><diagram id="3I7zmlLuJXXGao9bfmXs">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-07T12:20:18.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="4fnT5HSuiRPOQEijBJSk" version="13.7.7" type="github">
+  <diagram id="3I7zmlLuJXXGao9bfmXs" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Vnk3tOur3JN30AuFHE3v-15" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#f9f7ed;fontSize=16;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="160" width="520" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Vnk3tOur3JN30AuFHE3v-6" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;第一步：取指令&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;从内存取指令到控制器&lt;/span&gt;&#xa;&#xa;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;labelBackgroundColor=none;" edge="1" parent="1" source="Vnk3tOur3JN30AuFHE3v-2" target="Vnk3tOur3JN30AuFHE3v-3">
+          <mxGeometry x="-0.1373" y="-65" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="515" />
+              <mxPoint x="190" y="315" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vnk3tOur3JN30AuFHE3v-2" value="内存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffcc99;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="490" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vnk3tOur3JN30AuFHE3v-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="Vnk3tOur3JN30AuFHE3v-3" target="Vnk3tOur3JN30AuFHE3v-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vnk3tOur3JN30AuFHE3v-3" value="控制单元" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#cce5ff;strokeColor=none;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="290" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vnk3tOur3JN30AuFHE3v-7" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;第四步：数据回写&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;操作结果写回内存&lt;/span&gt;&#xa;&#xa;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;labelBackgroundColor=none;" edge="1" parent="1" source="Vnk3tOur3JN30AuFHE3v-4" target="Vnk3tOur3JN30AuFHE3v-2">
+          <mxGeometry x="-0.1753" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="315" />
+              <mxPoint x="760" y="515" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vnk3tOur3JN30AuFHE3v-4" value="算数逻辑单元" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffcccc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="575" y="290" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vnk3tOur3JN30AuFHE3v-9" value="第二步：指令译码&lt;br style=&quot;font-size: 16px&quot;&gt;控制器将指令解析成&lt;br&gt;不同的操作信号&lt;br&gt;以及地址和操作数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="250" y="210" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Vnk3tOur3JN30AuFHE3v-10" value="第三步：执行命令&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;算数逻辑单元根据输入信号&lt;br style=&quot;font-size: 16px;&quot;&gt;和数据进行运算&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="530" y="220" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vnk3tOur3JN30AuFHE3v-11" value="通过电路将指令和数据&lt;br style=&quot;font-size: 16px;&quot;&gt;传输到&lt;span style=&quot;font-size: 16px;&quot;&gt;算数逻辑单元&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="390" y="340" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vnk3tOur3JN30AuFHE3v-16" value="CPU 内部" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="445" y="170" width="90" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
