@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2020-10-12T06:17:42.106Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" version="13.7.5" etag="DVg7l7YJN9stTIfko4ln" type="github"><diagram id="XyO682tAB7YzHlFXcE-P">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-12T06:42:01.514Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="w5uPFunnOLZ89ipjWnge" version="13.7.5" type="github">
+  <diagram id="XyO682tAB7YzHlFXcE-P" name="第 1 页">
+    <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PWmNi36X7jY6TQDP7-c--10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="445.5" y="228" width="190" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="PWmNi36X7jY6TQDP7-c--1" value="人脑" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/viiva-business/32/think-128.png;" vertex="1" parent="1">
+          <mxGeometry x="766" y="222" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="PWmNi36X7jY6TQDP7-c--4" value="书" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#36393d;fillColor=#cce5ff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.book_journal;" vertex="1" parent="1">
+          <mxGeometry x="520" y="250" width="41" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PWmNi36X7jY6TQDP7-c--12" value="书" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#36393d;fillColor=#ffcc99;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.book_journal;" vertex="1" parent="1">
+          <mxGeometry x="465" y="250" width="41" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PWmNi36X7jY6TQDP7-c--13" value="书" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#36393d;fillColor=#ffff88;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.book_journal;" vertex="1" parent="1">
+          <mxGeometry x="575" y="250" width="41" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="PWmNi36X7jY6TQDP7-c--14" value="图书馆书架" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/server_farm.svg;" vertex="1" parent="1">
+          <mxGeometry x="175" y="210" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="PWmNi36X7jY6TQDP7-c--15" value="书桌" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="521" y="359" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PWmNi36X7jY6TQDP7-c--17" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#cdeb8b;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="334" y="269" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PWmNi36X7jY6TQDP7-c--18" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#cdeb8b;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="269" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PWmNi36X7jY6TQDP7-c--20" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;大脑 --&amp;gt; CPU&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;正在处理 --&amp;gt; 寄存器&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;短期记忆 --&amp;gt; L1 Cache&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;长度记忆 --&amp;gt; L2/L3 Cache&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="730" y="140" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PWmNi36X7jY6TQDP7-c--21" value="&lt;div&gt;书 --&amp;gt; 数据&lt;/div&gt;&lt;div&gt;书桌 --&amp;gt; 内存&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="486" y="160" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PWmNi36X7jY6TQDP7-c--22" value="图书馆书架 --&amp;gt; SSD/HDD 硬盘" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="130" y="170" width="230" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
