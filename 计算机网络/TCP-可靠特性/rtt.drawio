@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-05-01T13:57:06.634Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.4.6" etag="_K3ITmnrbcTSJMDC7rBX" type="github"><diagram id="m0fYYYxEpit_0pzVXDQs">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-01T13:59:43.243Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="uNro_lzbk2MKWK0zOqao" version="17.4.6" type="github">
+  <diagram id="m0fYYYxEpit_0pzVXDQs" name="Page-1">
+    <mxGraphModel dx="1341" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MR2ORtowRZtpSXOESVbM-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.xiaolincoding.com/gh/xiaolincoder/ImageHost2/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/TCP-%E5%8F%AF%E9%9D%A0%E7%89%B9%E6%80%A7/6.jpg;" vertex="1" parent="1">
+          <mxGeometry x="200" y="10" width="520" height="433" as="geometry" />
+        </mxCell>
+        <mxCell id="MR2ORtowRZtpSXOESVbM-2" value="RTT 是&lt;span style=&quot;font-family: arial, sans-serif; font-size: 16px; text-align: left;&quot;&gt;数据发送时刻到接收到确认的时刻的差值&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;fillColor=#ffe6cc;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="410" width="470" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
